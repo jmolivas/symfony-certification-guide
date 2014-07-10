@@ -13,8 +13,8 @@ Feel free to fork and send a PR.
 * Object Oriented Programming  
 http://www.php.net/manual/en/oop5.intro.php
 * Namespaces  
-http://www.php.net/manual/en/language.namespaces.php
-https://knpuniversity.com/screencast/php-namespaces-in-120-seconds/namespaces
+http://www.php.net/manual/en/language.namespaces.php  
+https://knpuniversity.com/screencast/php-namespaces-in-120-seconds/namespaces  
 * Interfaces  
 http://www.php.net/manual/en/language.oop5.interfaces.php
 * Anonymous functions and closures  
@@ -51,7 +51,7 @@ http://symfony.com/doc/current/quick_tour/the_architecture.html#configuring-a-bu
 http://symfony.com/doc/current/cookbook/configuration/index.html
 http://symfony.com/doc/current/components/config/index.html
 http://symfony.com/doc/current/cookbook/bundles/best_practices.html#configuration  
-http://symfony.com/doc/current/cookbook/bundles/extension.html
+http://symfony.com/doc/current/cookbook/bundles/extension.html  
 Code organization  
 http://symfony.com/doc/current/quick_tour/the_architecture.html#understanding-the-directory-structure
 * Request handling  
@@ -139,7 +139,7 @@ http://twig.sensiolabs.org/doc/functions/index.html
 http://twig.sensiolabs.org/doc/filters/index.html
 * Template includes  
 http://twig.sensiolabs.org/doc/tags/include.html
-* Control statements (loops and conditions)
+* Control statements (loops and conditions)  
 http://twig.sensiolabs.org/doc/tags/for.html
 * Urls generation  
 http://symfony.com/doc/current/book/routing.html#generating-urls-from-a-template
@@ -275,7 +275,7 @@ https://github.com/certificationy/certificationy
 http://symfony.es/libro/
 * A year with Symfony  
 https://leanpub.com/a-year-with-symfony  
-* Un año con Symfony
+* Un año con Symfony  
 https://leanpub.com/un-ano-con-symfony  
 * Extending Symfony2 Web Application Framework  
 http://www.packtpub.com/extending-symfony-2-web-application-framework/book
