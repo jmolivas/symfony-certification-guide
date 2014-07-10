@@ -271,11 +271,11 @@ https://github.com/certificationy/certificationy
 ---
 
 #### **Books**
-* Desarrollo web ágil con Symfony2  
+* Desarrollo web ágil con Symfony2 Spanish  
 http://symfony.es/libro/
 * A year with Symfony  
 https://leanpub.com/a-year-with-symfony  
-* Un año con Symfony  
+* Un año con Symfony Spanish  
 https://leanpub.com/un-ano-con-symfony  
 * Extending Symfony2 Web Application Framework  
 http://www.packtpub.com/extending-symfony-2-web-application-framework/book
