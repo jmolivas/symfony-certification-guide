@@ -1,3 +1,5 @@
+Symfony certification guide
+===========================
 
 This is not an official guide, it's only a compilation of links extracted from the documentation based on the [Symfony Certification](http://sensiolabs.com/en/symfony/certification.html) page topics.
 
