@@ -259,43 +259,37 @@ http://symfony.com/doc/current/components/debug/introduction.html
 ### **Resources**
 ---
 #### **Documentation**
-* The Symfony Book
+* The Symfony Book  
 http://symfony.com/doc/current/book/index.html
-
-* The Symfony Cookbook
+* The Symfony Cookbook  
 http://symfony.com/doc/current/cookbook/index.html
-
-* The Symfony Book Spanish
+* The Symfony Book Spanish  
 http://librosweb.es/symfony_2_4/
-
-* A Symfony Console tool to train on Symfony Certification
+* A Symfony Console tool to train on Symfony Certification  
 https://github.com/certificationy/certificationy
 
+---
+
 #### **Books**
-* Desarrollo web ágil con Symfony2
+* Desarrollo web ágil con Symfony2  
 http://symfony.es/libro/
-
-* A year with Symfony
-https://leanpub.com/a-year-with-symfony
-
+* A year with Symfony  
+https://leanpub.com/a-year-with-symfony  
 * Un año con Symfony
-https://leanpub.com/un-ano-con-symfony
-
-* Extending Symfony2 Web Application Framework
+https://leanpub.com/un-ano-con-symfony  
+* Extending Symfony2 Web Application Framework  
 http://www.packtpub.com/extending-symfony-2-web-application-framework/book
 
+---
+
 #### **Other**
-* KNP University - PHP and Symfony Tutorial Screencasts
+* KNP University - PHP and Symfony Tutorial Screencasts  
 http://knpuniversity.com/
-
-* SymfonyBricks
+* SymfonyBricks  
 https://symfonybricks.com/
-
-* Symfony2 cheat sheet
+* Symfony2 cheat sheet  
 http://www.symfony2cheatsheet.com/
-
-* Symfony2 Tutorials
+* Symfony2 Tutorials  
 http://www.screenfony.com/
-
-* Symfony2 deployment checklist
+* Symfony2 deployment checklist  
 http://www.symfony2-checklist.com/
