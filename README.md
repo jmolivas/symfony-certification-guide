@@ -274,13 +274,15 @@ http://symfony.com/doc/current/glossary.html
 
 #### **Books**
 * Desarrollo web ágil con Symfony2 Spanish  
-http://symfony.es/libro/
+http://symfony.es/libro/  
 * A year with Symfony  
 https://leanpub.com/a-year-with-symfony  
 * Un año con Symfony Spanish  
 https://leanpub.com/un-ano-con-symfony  
 * Extending Symfony2 Web Application Framework  
-http://www.packtpub.com/extending-symfony-2-web-application-framework/book
+http://www.packtpub.com/extending-symfony-2-web-application-framework/book  
+* Testing para Aplicaciones Symfony2 Spanish  
+https://leanpub.com/testingsymfony2  
 
 ---
 
