@@ -266,7 +266,7 @@ http://symfony.com/doc/current/cookbook/index.html
 * The Symfony Book Spanish  
 http://librosweb.es/symfony_2_4/
 * A Symfony Console tool to train on Symfony Certification  
-https://github.com/certificationy/certificationy
+https://github.com/certificationy/certificationy  
 The Symfony Glossary  
 http://symfony.com/doc/current/glossary.html
 ---
