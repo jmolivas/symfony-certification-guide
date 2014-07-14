@@ -264,9 +264,7 @@ http://symfony.com/doc/current/book/index.html
 * The Symfony Cookbook  
 http://symfony.com/doc/current/cookbook/index.html
 * The Symfony Book Spanish  
-http://librosweb.es/symfony_2_4/
-* A Symfony Console tool to train on Symfony Certification  
-https://github.com/certificationy/certificationy  
+http://librosweb.es/symfony_2_4/  
 The Symfony Glossary  
 http://symfony.com/doc/current/glossary.html
 
@@ -297,3 +295,5 @@ http://www.symfony2cheatsheet.com/
 http://www.screenfony.com/
 * Symfony2 deployment checklist  
 http://www.symfony2-checklist.com/
+* A Symfony Console CLI tool to train on Symfony certification  
+https://github.com/certificationy/certificationy-cli  
