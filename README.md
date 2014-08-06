@@ -72,6 +72,7 @@ https://knpuniversity.com/screencast/composer
 * Development best practices  
 
 * Overload the framework  
+http://symfony.com/doc/current/cookbook/bundles/override.html
 
 ---
 
@@ -95,14 +96,18 @@ http://symfony.com/doc/current/quick_tour/the_view.html
 http://symfony.com/doc/current/book/routing.html#controller-string-syntax
 * Get the request  
 http://symfony.com/doc/current/book/controller.html#requests-controller-response-lifecycle
+http://symfony.com/doc/current/components/http_foundation/introduction.html#request
 * Generate the response  
 http://symfony.com/doc/current/book/controller.html#requests-controller-response-lifecycle
+http://symfony.com/doc/current/components/http_foundation/introduction.html#response
 * The cookies  
-http://symfony.com/doc/current/book/controller.html#managing-the-session
+http://symfony.com/doc/current/components/http_foundation/introduction.html#setting-cookies
 * The session  
 http://symfony.com/doc/current/book/controller.html#managing-the-session
+http://symfony.com/doc/current/components/http_foundation/sessions.html
 * Session flashbag  
 http://symfony.com/doc/current/book/controller.html#flash-messages
+http://symfony.com/doc/current/components/http_foundation/sessions.html#flash-messages
 * Redirects  
 http://symfony.com/doc/current/book/controller.html#redirecting
 * Internal redirects  
@@ -125,14 +130,18 @@ http://symfony.com/doc/current/book/routing.html#generating-urls
 http://symfony.com/doc/current/book/routing.html#generating-urls-with-query-strings
 * Trigger redirections  
 http://symfony.com/doc/current/cmf/components/routing/dynamic.html#redirections
+http://symfony.com/doc/current/cookbook/routing/redirect_in_config.html
 
 ---
 
 #### **Templating with Twig**
 * Auto escape  
 http://twig.sensiolabs.org/doc/tags/autoescape.html
+http://symfony.com/doc/current/book/templating.html#output-escaping-in-twig
 * Template inheritance  
 http://twig.sensiolabs.org/doc/tags/extends.html
+http://twig.sensiolabs.org/doc/templates.html#template-inheritance
+http://symfony.com/doc/current/book/templating.html#template-inheritance-and-layouts
 * Global functions  
 http://twig.sensiolabs.org/doc/functions/index.html
 * Filters  
@@ -141,8 +150,10 @@ http://twig.sensiolabs.org/doc/filters/index.html
 http://twig.sensiolabs.org/doc/tags/include.html
 * Control statements (loops and conditions)  
 http://twig.sensiolabs.org/doc/tags/for.html
+http://twig.sensiolabs.org/doc/templates.html#control-structure
 * Urls generation  
 http://symfony.com/doc/current/book/routing.html#generating-urls-from-a-template
+http://symfony.com/doc/current/book/templating.html#linking-to-pages
 * Call a controller from a view  
 http://symfony.com/doc/current/book/templating.html#embedding-controllers
 * Translations  
@@ -157,6 +168,7 @@ http://symfony.com/doc/current/book/forms.html#creating-a-simple-form
 http://symfony.com/doc/current/book/forms.html#handling-form-submissions
 * Form types  
 http://symfony.com/doc/current/book/forms.html#creating-form-classes
+http://symfony.com/doc/current/book/forms.html#built-in-field-types
 * Render forms with Twig  
 http://symfony.com/doc/current/book/forms.html#rendering-a-form-in-a-template
 * Forms security (CSRF)  
@@ -168,6 +180,7 @@ http://symfony.com/doc/current/book/forms.html#csrf-protection
 * Validate a PHP object  
 http://symfony.com/doc/current/book/validation.html#the-basics-of-validation
 * Native validation rules  
+http://symfony.com/doc/current/book/validation.html#constraints
 * Validation scopes  
 * Validation groups  
 http://symfony.com/doc/current/book/validation.html#validation-groups
@@ -178,29 +191,44 @@ http://symfony.com/doc/current/book/validation.html#validation-groups
 * The Service container  
 http://symfony.com/doc/current/book/service_container.html
 * Global configuration parameters
+http://symfony.com/doc/current/components/dependency_injection/parameters.html
+http://symfony.com/doc/current/components/dependency_injection/introduction.html#setting-up-the-container-with-configuration-files
 * Symfony2 services  
 http://symfony.com/doc/current/book/service_container.html#what-is-a-service
 * Register new services  
 http://symfony.com/doc/current/book/service_container.html#creating-configuring-services-in-the-container
 * Tags  
 http://symfony.com/doc/current/book/service_container.html#tags
+http://symfony.com/doc/current/reference/dic_tags.html
 * Semantic configuration
+http://symfony.com/doc/current/cookbook/bundles/extension.html
 
 ---
 
 #### **Security**
 * Authentication  
 http://symfony.com/doc/current/components/security/authentication.html
+http://symfony.com/doc/current/book/security.html#how-security-works-authentication-and-authorization
 * Authorization  
 http://symfony.com/doc/current/components/security/authorization.html
+http://symfony.com/doc/current/book/security.html#authorization
 * Configuration  
+http://symfony.com/doc/current/reference/configuration/security.html
 * Providers  
+http://symfony.com/doc/current/book/security.html#where-do-users-come-from-user-providers
 * Firewalls  
+http://symfony.com/doc/current/book/security.html#firewalls-authentication
+http://symfony.com/doc/current/components/security/firewall.html
 * Users  
+http://symfony.com/doc/current/book/security.html#users
 * Encoders  
+http://symfony.com/doc/current/book/security.html#encoding-the-user-s-password
 * Roles  
-http://symfony.com/doc/master/components/security/authorization.html#roles
+http://symfony.com/doc/current/components/security/authorization.html#roles
+http://symfony.com/doc/current/book/security.html#roles
 * Access Control Rules  
+http://symfony.com/doc/current/book/security.html#access-control-in-templates
+http://symfony.com/doc/current/book/security.html#access-control-in-controllers
 
 ---
 
@@ -220,8 +248,9 @@ http://symfony.com/doc/current/book/http_cache.html#using-edge-side-includes
 
 #### **The command line**
 * Symfony2 commands  
-http://symfony.com/doc/current/components/console/introduction.html#creating-a-basic-command
+http://symfony.com/doc/current/components/console/usage.html#built-in-commands
 * Custom commands  
+http://symfony.com/doc/current/components/console/introduction.html#creating-a-basic-command
 http://symfony.com/doc/current/cookbook/console/console_command.html
 * Configuration  
 * Options and arguments  
@@ -242,7 +271,9 @@ http://symfony.com/doc/current/book/testing.html#working-with-the-test-client
 http://symfony.com/doc/current/book/testing.html#the-crawler
 * The Profile object  
 http://symfony.com/doc/current/book/testing.html#accessing-the-profiler-data
+http://symfony.com/doc/current/cookbook/testing/profiling.html
 * Access framework objects  
+http://symfony.com/doc/current/book/testing.html#accessing-internal-objects
 http://symfony.com/doc/current/book/testing.html#accessing-the-container
 * Configure the client  
 * Introspect the request and response  
@@ -255,6 +286,7 @@ http://symfony.com/doc/current/book/testing.html#accessing-internal-objects
 http://symfony.com/doc/current/cookbook/controller/error_pages.html
 * Debug the code  
 http://symfony.com/doc/current/components/debug/introduction.html
+http://symfony.com/doc/current/cookbook/debugging.html
 
 ### **Resources**
 ---
