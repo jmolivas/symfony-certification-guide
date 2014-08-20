@@ -285,7 +285,6 @@ http://symfony.com/doc/2.3/book/testing.html#accessing-internal-objects
 * Error handling  
 http://symfony.com/doc/2.3/cookbook/controller/error_pages.html
 * Debug the code  
-http://symfony.com/doc/2.3/components/debug/introduction.html
 http://symfony.com/doc/2.3/cookbook/debugging.html
 
 ### **Resources**
