@@ -296,7 +296,7 @@ http://symfony.com/doc/2.3/book/index.html
 * The Symfony Cookbook  
 http://symfony.com/doc/2.3/cookbook/index.html
 * The Symfony Book Spanish  
-http://librosweb.es/symfony_2_4/  
+http://librosweb.es/symfony_2_3/  
 The Symfony Glossary  
 http://symfony.com/doc/2.3/glossary.html
 
