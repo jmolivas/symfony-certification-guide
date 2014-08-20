@@ -200,7 +200,7 @@ http://symfony.com/doc/current/book/service_container.html#creating-configuring-
 * Tags  
 http://symfony.com/doc/current/book/service_container.html#tags
 http://symfony.com/doc/current/reference/dic_tags.html
-* Semantic configuration
+* Semantic configuration  
 http://symfony.com/doc/current/cookbook/bundles/extension.html
 
 ---
@@ -250,11 +250,11 @@ http://symfony.com/doc/current/book/http_cache.html#using-edge-side-includes
 * Symfony2 commands  
 http://symfony.com/doc/current/components/console/usage.html#built-in-commands
 * Custom commands  
-http://symfony.com/doc/current/components/console/introduction.html#creating-a-basic-command
+http://symfony.com/doc/current/components/console/introduction.html#creating-a-basic-command  
 http://symfony.com/doc/current/cookbook/console/console_command.html
 * Configuration  
 * Options and arguments  
-http://symfony.com/doc/current/components/console/introduction.html#using-command-options
+http://symfony.com/doc/current/components/console/introduction.html#using-command-options  
 http://symfony.com/doc/current/components/console/introduction.html#using-command-arguments
 * Read the entry and write the output  
 
