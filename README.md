@@ -328,3 +328,5 @@ http://www.screenfony.com/
 http://www.symfony2-checklist.com/
 * A Symfony Console CLI tool to train on Symfony certification  
 https://github.com/certificationy/certificationy-cli  
+* A Symfony Web Platform tool to train on Symfony certification  
+http://www.certificationy.com/
