@@ -312,7 +312,10 @@ https://leanpub.com/un-ano-con-symfony
 http://www.packtpub.com/extending-symfony-2-web-application-framework/book  
 * Testing para Aplicaciones Symfony2 Spanish  
 https://leanpub.com/testingsymfony2  
-
+* Symfony Enterprise Applications
+https://leanpub.com/symfony-enterprise-applications
+* Extending Symfony2 Web Application Framework
+https://www.packtpub.com/web-development/extending-symfony2-web-application-framework
 ---
 
 #### **Other**
