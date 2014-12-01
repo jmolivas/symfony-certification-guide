@@ -52,7 +52,7 @@ http://symfony.com/doc/2.3/cookbook/configuration/index.html
 http://symfony.com/doc/2.3/components/config/index.html
 http://symfony.com/doc/2.3/cookbook/bundles/best_practices.html#configuration  
 http://symfony.com/doc/2.3/cookbook/bundles/extension.html  
-Code organization  
+*  Code organization  
 http://symfony.com/doc/2.3/quick_tour/the_architecture.html#understanding-the-directory-structure
 * Request handling  
 http://symfony.com/doc/2.3/book/http_fundamentals.html#the-journey-from-the-request-to-the-response
