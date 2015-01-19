@@ -130,7 +130,7 @@ http://symfony.com/doc/2.3/book/routing.html#required-and-optional-placeholders
 http://symfony.com/doc/2.3/book/routing.html#generating-urls
 http://symfony.com/doc/2.3/book/routing.html#generating-urls-with-query-strings
 * Trigger redirections  
-http://symfony.com/doc/2.3/cmf/components/routing/dynamic.html#redirections
+http://symfony.com/doc/master/cmf/components/routing/dynamic.html#redirections
 http://symfony.com/doc/2.3/cookbook/routing/redirect_in_config.html
 
 ---
