@@ -112,7 +112,7 @@ http://symfony.com/doc/2.3/components/http_foundation/sessions.html#flash-messag
 * Redirects  
 http://symfony.com/doc/2.3/book/controller.html#redirecting
 * Internal redirects  
-http://symfony.com/doc/2.3/book/controller.html#forwarding
+http://symfony.com/doc/2.3/book/controller.html#forwarding-to-another-controller
 * Generate 404 pages  
 http://symfony.com/doc/2.3/book/controller.html#managing-errors-and-404-pages
 http://symfony.com/doc/2.3/cookbook/controller/error_pages.html#customizing-the-404-page-and-other-error-pages
