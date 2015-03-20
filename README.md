@@ -72,7 +72,7 @@ https://knpuniversity.com/screencast/composer
 * Development best practices
 http://symfony.com/doc/2.3/best_practices/index.html
 
-* Overload the framework  
+* Override the framework  
 http://symfony.com/doc/2.3/cookbook/bundles/override.html
 
 ---
