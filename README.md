@@ -235,11 +235,11 @@ http://symfony.com/doc/2.3/book/security.html#access-control-in-controllers
 
 #### **HTTP Cache**
 * Cache types (browser, proxies and reverse proxies)  
-* http://symfony.com/doc/2.3/book/http_cache.html#types-of-caches
+http://symfony.com/doc/2.3/book/http_cache.html#types-of-caches
 * Expiration (Expires, Cache-control)  
 http://symfony.com/doc/2.3/book/http_cache.html#expiration
 * Validation (ETag, Last-Modified)  
-* http://symfony.com/doc/2.3/book/http_cache.html#validation
+http://symfony.com/doc/2.3/book/http_cache.html#validation
 * Client cache  
 * Server cache  
 * Edge Side Includes  
