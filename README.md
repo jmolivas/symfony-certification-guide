@@ -33,6 +33,8 @@ http://symfony.com/doc/2.3/components/http_foundation/introduction.html#request
 http://symfony.com/doc/2.3/components/http_foundation/introduction.html#response
 * Status codes  
 http://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+* RFC 2616
+http://www.ietf.org/rfc/rfc2616.txt
 
 ---
 
