@@ -319,8 +319,9 @@ https://leanpub.com/testingsymfony2
 https://leanpub.com/symfony-enterprise-applications
 * Extending Symfony2 Web Application Framework
 https://www.packtpub.com/web-development/extending-symfony2-web-application-framework
-* Symfony Certification. Unofficial self-study guide
+* Symfony Certification. Unofficial self-study guide  
 https://leanpub.com/symfony-selfstudy
+
 ---
 
 #### **Other**
